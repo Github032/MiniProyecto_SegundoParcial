@@ -3,6 +3,5 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>https://github.com/marioparra4/formularioAjax/blob/main/js/ajax.js</string>
 </dict>
 </plist>
